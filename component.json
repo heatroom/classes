@@ -1,0 +1,16 @@
+{
+  "name": "classes",
+  "repo": "heatroom/classes",
+  "description": "mixin class helper methods to a view.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "jkroso/classes": "1.1.0"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
